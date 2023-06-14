@@ -32,7 +32,3 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
-"homepage": "https://Vyacheslav.github.io/Slava/",
-"scripts": {
-  "build": "parcel build src/*.html --public-url /Slava/"
-},
